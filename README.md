@@ -10,9 +10,9 @@
 
 ---
 
-## 🟦 1 — Beginner Level Task (Part 03)
+## 🟦 Task 1 — Beginner Level Task (Part 03)
 
-### **Task 3: Linear Regression for Sales Prediction**
+### **Linear Regression for Sales Prediction**
 
 🔗 **Notebook:**
 ➡️ [Task1.ipynb](./Task1.ipynb)
@@ -34,9 +34,9 @@ Python, Pandas, Scikit-learn
 
 ---
 
-## 🟩 2 — Intermediate Level Task (Part 02)
+## 🟩 Task 2 — Intermediate Level Task (Part 02)
 
-### **Task 2: Multiple Regression Model**
+### **Multiple Regression Model**
 
 🔗 **Notebook:**
 ➡️ [Task2.ipynb](./Task2.ipynb)
@@ -58,15 +58,15 @@ Python, Pandas, Scikit-learn
 
 ---
 
-## 🟥 3 — Advanced Level Task (Part 03)
+## 🟥 Task 3 — Advanced Level Task (Part 03)
 
-### **Task 3: Model Deployment (Flask / Streamlit)**
+### **Model Deployment (Flask / Streamlit)**
 
 🔗 **Notebook (EDA & Model Training):**
 ➡️ [Task3.ipynb](./Task3.ipynb)
 
 🔗 **Streamlit App:**
-➡️ [task3/streamlit_app](./task3/main.py)
+➡️ [main.py](./main.py)
 
 **Description:**
 Deploy the regression model as a simple web app or dashboard.
